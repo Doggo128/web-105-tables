@@ -1,0 +1,90 @@
+
+   
+   html {
+        background-image: url("../images/bg_space_seamless.png");
+        
+   }
+
+    
+
+    .container {
+        background-color: blanchedalmond;
+        margin-right: 25%;
+        margin-left: 25%;
+    }
+
+    h1 {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    main img {
+        border: 1px solid black;
+        width: 256px;
+        height: 256px;
+    }
+
+     footer p {
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         font-style: italic;
+     }
+
+     nav a { 
+         text-decoration: none;
+        
+        color: white;
+        background-color: #010530;
+        border: 1px solid orange;
+        border-radius: 24px;
+        padding-left: 2%;
+        padding-right: 2%;
+
+     }
+
+     nav a:hover {
+         padding-left: 2.5%;
+         padding-right: 2.5%;
+         color: white;
+         font-style: italic;
+         background-color: #878787;
+     }
+
+     table,th,td {
+        border: 1px solid black;
+    }
+      
+     tr:hover {
+         background-color: #3b3a52;
+     }
+
+     table {
+         border-collapse: collapse;
+         text-align: center; 
+     }
+
+     th {
+         border: 1px solid grey;
+         background-color: #181b30;
+         color: white;
+        
+     }
+
+     td {
+         
+        background-color: white;
+       
+        
+        
+     }
+
+     td p {
+        text-align: right;
+        margin-right: 10%;
+        
+        
+     }
+     
+
+    table {
+       
+        width: 80%;
+    }
